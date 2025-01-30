@@ -5,6 +5,7 @@ import 'package:weather_app/views/home_view.dart';
 
 void main() async {
   runApp(const Myapp());
+  //after editing gradle setting
 }
 
 class Myapp extends StatelessWidget {
